@@ -1,6 +1,6 @@
-def plus_two(num)
+def plus_two(num) = 5
 num + 2
-number = 2 + 3
+num
 binding.pry
 puts number
 end
